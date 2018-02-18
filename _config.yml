@@ -59,14 +59,11 @@ ga_domain: yoursite
 
 # Sidebar settings
 sidebar: true                       # whether or not using Sidebar.
-sidebar-about-description: 안녕하세요 JacksChoco입니다. 아마존웹서비스와 운영에 관심이 많은 개발자입니다.
+sidebar-about-description: 안녕하세요 JacksChoco입니다. AWS와 Ops에 관심이 많은 개발자입니다.
 sidebar-avatar: img/profile.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
-- featured-tags
 - short-about
-- category
 - recent-posts
-- friends-blog
 - archive
 # - category
 
