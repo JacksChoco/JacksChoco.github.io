@@ -16,6 +16,7 @@ root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
+
 #Custom Setting Start
 
 # Site settings
@@ -155,5 +156,5 @@ sitemap:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/JacksChoco/JacksChoco.github.io
+  repository: https://github.com/JacksChoco/JacksChoco.github.io.git
   branch: master
