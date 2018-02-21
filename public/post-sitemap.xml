@@ -7,8 +7,24 @@
     </url>
 
     <url>
+        <loc>http://jackschoco.github.io/2018/02/20/%EB%AA%A8%EB%93%A0-AWS-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%ED%8F%AC%EC%8A%A4%ED%8C%85-%ED%95%98%EC%9E%90/</loc>
+        <lastmod>2018-02-20T14:58:39.046Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://jackschoco.github.io/2017/03/18/hexo-theme-beantech/</loc>
-        <lastmod>2018-02-18T14:34:57.000Z</lastmod>
+        <lastmod>2018-02-20T14:48:16.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://jackschoco.github.io/2018/02/20/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EA%B8%B0/</loc>
+        <lastmod>2018-02-20T14:01:52.793Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
