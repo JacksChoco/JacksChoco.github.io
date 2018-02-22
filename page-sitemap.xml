@@ -14,14 +14,14 @@
     </url>
     
     <url>
-        <loc>http://jackschoco.github.io/about/</loc>
+        <loc>http://jackschoco.github.io/archive/</loc>
         <lastmod>2018-02-18T13:01:19.550Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://jackschoco.github.io/archive/</loc>
+        <loc>http://jackschoco.github.io/about/</loc>
         <lastmod>2018-02-18T13:01:19.550Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
